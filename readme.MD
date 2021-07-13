@@ -139,21 +139,21 @@
 
 **响应参数**：
 
-| 中文字段名   | 英文字段名 | 字段类型 | 字段长度 |
-| ------------ | ---------- | -------- | -------- |
-| 餐别代码     | Cbbh       | varchar  | 10       |
-| 食谱类别     | Sort       | varchar  | 10       |
-| 食谱代码     | code       | varchar  | 4        |
-| 食谱名称     | name       | varchar  | 20       |
-| 单价         | price      | numeric  | 6        |
-| 菜品功效     | Gx         | varchar  | 200      |
-| 热量         | rl         | Numeric  | 10       |
-| 蛋白质       | dbz        | Numeric  | 10       |
-| 脂肪         | zf         | Numeric  | 10       |
-| 碳水化合物   | ts         | numeric  | 10       |
-| 图片         | tp         | varchar  | 200      |
-| 最大订餐数量 | dcsl       | numeric  | 10       |
-| 灶别代码     | Zh         | varchar  | 2        |
+| 中文字段名   | 英文字段名 | 字段类型 | 字段长度 | 备注                                         |
+| ------------ | ---------- | -------- | -------- | -------------------------------------------- |
+| 餐别代码     | Cbbh       | varchar  | 10       | 早餐、中餐、晚餐、上午加餐、下午加餐、晚加餐 |
+| 食谱类别     | Sort       | varchar  | 10       | 主食、副食、汤粥、药膳、其它                 |
+| 食谱代码     | code       | varchar  | 4        |                                              |
+| 食谱名称     | name       | varchar  | 20       |                                              |
+| 单价         | price      | numeric  | 6        |                                              |
+| 菜品功效     | Gx         | varchar  | 200      | 清流、流食、半流食、软食、普通、肠内营养     |
+| 热量         | rl         | Numeric  | 10       |                                              |
+| 蛋白质       | dbz        | Numeric  | 10       |                                              |
+| 脂肪         | zf         | Numeric  | 10       |                                              |
+| 碳水化合物   | ts         | numeric  | 10       |                                              |
+| 图片         | tp         | varchar  | 200      |                                              |
+| 最大订餐数量 | dcsl       | numeric  | 10       |                                              |
+| 灶别代码     | Zh         | varchar  | 2        | 普通、清真、素食、治疗                       |
 
 **响应参数实例**
 
