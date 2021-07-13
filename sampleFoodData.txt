@@ -1,0 +1,631 @@
+[{'cbbh': '1 ', 'sort': '主食', 'code': '1000', 'name': '米饭', 'price':
+Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '1 ', 'sort': '主食', 'code': '1001', 'name': '馒头', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '1 ', 'sort': '主食', 'code': '1002', 'name': '花卷', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '1 ',
+'sort': '主食', 'code': '1003', 'name': '发糕', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '1 ', 'sort': '主食', 'code':
+'1004', 'name': '千层饼', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '1 ', 'sort': '主食', 'code': '1005', 'name': '鸡蛋',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '1 ', 'sort': '主食', 'code': '1006', 'name': '包子', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '1 ', 'sort': '主食', 'code': '1007', 'name': '豆包', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '1 ',
+'sort': '主食', 'code': '1008', 'name': '枣糕', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '1 ', 'sort': '主食', 'code':
+'1009', 'name': '油条', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '主食', 'code': '1000', 'name': '米饭',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '主食', 'code': '1001', 'name': '馒头', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '2 ', 'sort': '主食', 'code': '1002', 'name': '花卷', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ',
+'sort': '主食', 'code': '1003', 'name': '发糕', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '主食', 'code':
+'1004', 'name': '千层饼', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '主食', 'code': '1005', 'name': '鸡蛋',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '主食', 'code': '1006', 'name': '包子', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '2 ', 'sort': '主食', 'code': '1007', 'name': '豆包', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ',
+'sort': '主食', 'code': '1008', 'name': '枣糕', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '主食', 'code':
+'1009', 'name': '油条', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2000', 'name': '地三鲜',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2001', 'name': '青笋木耳虾仁', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'03'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2002', 'name': '家常土豆丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ',
+'sort': '副食', 'code': '2003', 'name': '素炒豇豆', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '2 ', 'sort': '副食', 'code':
+'2004', 'name': '黄豆芽粉丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2005', 'name': '西葫芦鸡蛋',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '02'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2006', 'name': '豆皮油麦菜', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2007', 'name': '炖羊排', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ',
+'sort': '副食', 'code': '2008', 'name': '番茄有机菜花', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '2 ', 'sort': '副食', 'code':
+'2009', 'name': '海带鹌鹑蛋烧肉', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2010', 'name': '耗油豇豆',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2011', 'name': '胡萝卜快菜', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2012', 'name': '黄瓜虾仁', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '2 ',
+'sort': '副食', 'code': '2013', 'name': '黄焖鸡翅根', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code':
+'2014', 'name': '豇豆肉丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2015', 'name': '酱爆鸡丁',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2017', 'name': '萝卜炖牛肉', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2018', 'name': '萝卜鸭块', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ',
+'sort': '副食', 'code': '2019', 'name': '木耳油菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code':
+'2020', 'name': '木耳油麦菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2021', 'name': '芹菜粉条',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2022', 'name': '芹菜香干', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'02'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2023', 'name': '青豆胡萝卜鸡丁', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ',
+'sort': '副食', 'code': '2024', 'name': '青椒土豆片', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code':
+'2025', 'name': '青蒜杏鲍菇', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2026', 'name': '青蒜有机菜花',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2027', 'name': '青笋木耳鸡蛋', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2028', 'name': '青笋木耳虾仁', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '2 ',
+'sort': '副食', 'code': '2029', 'name': '清炒西葫芦', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code':
+'2030', 'name': '清炒小白菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2031', 'name': '肉末酱烧茄子',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2032', 'name': '素炒胡萝卜丝', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'03'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2033', 'name': '素炒豇豆', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '2 ',
+'sort': '副食', 'code': '2034', 'name': '酸菜炖排骨', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code':
+'2035', 'name': '土豆烧肉', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2036', 'name': '五花肉白菜豆腐',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2037', 'name': '西红柿鸡蛋', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2038', 'name': '西红柿茄丁', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '2 ',
+'sort': '副食', 'code': '2039', 'name': '西葫芦鸡蛋', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code':
+'2040', 'name': '香菇炖鸡块', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2041', 'name': '香菇油菜',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '03'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2042', 'name': '杏鲍菇炒鸡片', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '2 ', 'sort': '副食', 'code': '2043', 'name': '洋葱炒羊肉', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ',
+'sort': '副食', 'code': '2044', 'name': '鱼香肉丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '汤粥', 'code':
+'3000', 'name': '米汤', 'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '汤粥', 'code': '3001', 'name': '黄瓜汁',
+'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '汤粥', 'code': '3002', 'name': '鸡蛋羹', 'price': Decimal('1.00'),
+'gx': '半流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '2 ', 'sort': '汤粥', 'code': '3003', 'name': '豆浆', 'price': Decimal('1.00'), 'gx': '清流', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ',
+'sort': '汤粥', 'code': '3004', 'name': '纯牛奶', 'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '汤粥', 'code':
+'3005', 'name': '胡萝卜汁', 'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '04'}, {'cbbh': '2 ', 'sort': '汤粥', 'code': '3006', 'name': '苹果汁',
+'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '汤粥', 'code': '3007', 'name': '山药汁', 'price': Decimal('1.00'),
+'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'04'}, {'cbbh': '2 ', 'sort': '汤粥', 'code': '3008', 'name': '面片汤', 'price': Decimal('1.00'), 'gx': '半流', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ',
+'sort': '汤粥', 'code': '3009', 'name': '鸡蛋汤', 'price': Decimal('1.00'), 'gx': '流食', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '汤粥', 'code':
+'3010', 'name': '紫米汤', 'price': Decimal('1.00'), 'gx': '流食', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '2 ', 'sort': '汤粥', 'code': '3011', 'name': '养血粥',
+'price': Decimal('1.00'), 'gx': '流食', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '04'}, {'cbbh': '2 ', 'sort': '汤粥', 'code': '3012', 'name': '乳鸽汤', 'price': Decimal('1.00'),
+'gx': '流食', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'04'}, {'cbbh': '2 ', 'sort': '汤粥', 'code': '3013', 'name': '海参粥', 'price': Decimal('1.00'), 'gx': '半流', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '04'}, {'cbbh': '3 ',
+'sort': '主食', 'code': '1000', 'name': '米饭', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '主食', 'code':
+'1001', 'name': '馒头', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '主食', 'code': '1002', 'name': '花卷',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '主食', 'code': '1003', 'name': '发糕', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '3 ', 'sort': '主食', 'code': '1004', 'name': '千层饼', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ',
+'sort': '主食', 'code': '1005', 'name': '鸡蛋', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '主食', 'code':
+'1006', 'name': '包子', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '主食', 'code': '1007', 'name': '豆包',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '主食', 'code': '1008', 'name': '枣糕', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '3 ', 'sort': '主食', 'code': '1009', 'name': '油条', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ',
+'sort': '副食', 'code': '2000', 'name': '地三鲜', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code':
+'2001', 'name': '青笋木耳虾仁', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2002', 'name': '家常土豆丝',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2003', 'name': '素炒豇豆', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'02'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2004', 'name': '黄豆芽粉丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '3 ',
+'sort': '副食', 'code': '2005', 'name': '西葫芦鸡蛋', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '3 ', 'sort': '副食', 'code':
+'2006', 'name': '豆皮油麦菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2007', 'name': '炖羊排',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2008', 'name': '番茄有机菜花', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'02'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2009', 'name': '海带鹌鹑蛋烧肉', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ',
+'sort': '副食', 'code': '2010', 'name': '耗油豇豆', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code':
+'2011', 'name': '胡萝卜快菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2012', 'name': '黄瓜虾仁',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '02'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2013', 'name': '黄焖鸡翅根', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2014', 'name': '豇豆肉丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ',
+'sort': '副食', 'code': '2015', 'name': '酱爆鸡丁', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code':
+'2017', 'name': '萝卜炖牛肉', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2018', 'name': '萝卜鸭块',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2019', 'name': '木耳油菜', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2020', 'name': '木耳油麦菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ',
+'sort': '副食', 'code': '2021', 'name': '芹菜粉条', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code':
+'2022', 'name': '芹菜香干', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2023', 'name': '青豆胡萝卜鸡丁',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2024', 'name': '青椒土豆片', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2025', 'name': '青蒜杏鲍菇', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ',
+'sort': '副食', 'code': '2026', 'name': '青蒜有机菜花', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code':
+'2027', 'name': '青笋木耳鸡蛋', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2028', 'name': '青笋木耳虾仁',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '02'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2029', 'name': '清炒西葫芦', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2030', 'name': '清炒小白菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '3 ',
+'sort': '副食', 'code': '2031', 'name': '肉末酱烧茄子', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code':
+'2032', 'name': '素炒胡萝卜丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2033', 'name': '素炒豇豆',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '03'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2034', 'name': '酸菜炖排骨', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2035', 'name': '土豆烧肉', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ',
+'sort': '副食', 'code': '2036', 'name': '五花肉白菜豆腐', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code':
+'2037', 'name': '西红柿鸡蛋', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2038', 'name': '西红柿茄丁',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '03'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2039', 'name': '西葫芦鸡蛋', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2040', 'name': '香菇炖鸡块', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ',
+'sort': '副食', 'code': '2041', 'name': '香菇油菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '3 ', 'sort': '副食', 'code':
+'2042', 'name': '杏鲍菇炒鸡片', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2043', 'name': '洋葱炒羊肉',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '副食', 'code': '2044', 'name': '鱼香肉丝', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '3 ', 'sort': '汤粥', 'code': '3000', 'name': '米汤', 'price': Decimal('1.00'), 'gx': '清流', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ',
+'sort': '汤粥', 'code': '3001', 'name': '黄瓜汁', 'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '汤粥', 'code':
+'3002', 'name': '鸡蛋羹', 'price': Decimal('1.00'), 'gx': '半流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '汤粥', 'code': '3003', 'name': '豆浆',
+'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '汤粥', 'code': '3004', 'name': '纯牛奶', 'price': Decimal('1.00'),
+'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '3 ', 'sort': '汤粥', 'code': '3005', 'name': '胡萝卜汁', 'price': Decimal('1.00'), 'gx': '清流', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '04'}, {'cbbh': '3 ',
+'sort': '汤粥', 'code': '3006', 'name': '苹果汁', 'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '汤粥', 'code':
+'3007', 'name': '山药汁', 'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '04'}, {'cbbh': '3 ', 'sort': '汤粥', 'code': '3008', 'name': '面片汤',
+'price': Decimal('1.00'), 'gx': '半流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ', 'sort': '汤粥', 'code': '3009', 'name': '鸡蛋汤', 'price': Decimal('1.00'),
+'gx': '流食', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '3 ', 'sort': '汤粥', 'code': '3010', 'name': '紫米汤', 'price': Decimal('1.00'), 'gx': '流食', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '3 ',
+'sort': '汤粥', 'code': '3011', 'name': '养血粥', 'price': Decimal('1.00'), 'gx': '流食', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '04'}, {'cbbh': '3 ', 'sort': '汤粥', 'code':
+'3012', 'name': '乳鸽汤', 'price': Decimal('1.00'), 'gx': '流食', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '04'}, {'cbbh': '3 ', 'sort': '汤粥', 'code': '3013', 'name': '海参粥',
+'price': Decimal('1.00'), 'gx': '半流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '04'}, {'cbbh': '4 ', 'sort': '主食', 'code': '1000', 'name': '米饭', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '4 ', 'sort': '主食', 'code': '1001', 'name': '馒头', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ',
+'sort': '主食', 'code': '1002', 'name': '花卷', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '主食', 'code':
+'1003', 'name': '发糕', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '主食', 'code': '1004', 'name': '千层饼',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '主食', 'code': '1005', 'name': '鸡蛋', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '4 ', 'sort': '主食', 'code': '1006', 'name': '包子', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ',
+'sort': '主食', 'code': '1007', 'name': '豆包', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '主食', 'code':
+'1008', 'name': '枣糕', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '主食', 'code': '1009', 'name': '油条',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2000', 'name': '地三鲜', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2001', 'name': '青笋木耳虾仁', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '4 ',
+'sort': '副食', 'code': '2002', 'name': '家常土豆丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code':
+'2003', 'name': '素炒豇豆', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2004', 'name': '黄豆芽粉丝',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '03'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2005', 'name': '西葫芦鸡蛋', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'02'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2006', 'name': '豆皮油麦菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ',
+'sort': '副食', 'code': '2007', 'name': '炖羊排', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code':
+'2008', 'name': '番茄有机菜花', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2009', 'name': '海带鹌鹑蛋烧肉',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2010', 'name': '耗油豇豆', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2011', 'name': '胡萝卜快菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ',
+'sort': '副食', 'code': '2012', 'name': '黄瓜虾仁', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '4 ', 'sort': '副食', 'code':
+'2013', 'name': '黄焖鸡翅根', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2014', 'name': '豇豆肉丝',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2015', 'name': '酱爆鸡丁', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2017', 'name': '萝卜炖牛肉', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ',
+'sort': '副食', 'code': '2018', 'name': '萝卜鸭块', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code':
+'2019', 'name': '木耳油菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2020', 'name': '木耳油麦菜',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2021', 'name': '芹菜粉条', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2022', 'name': '芹菜香干', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '4 ',
+'sort': '副食', 'code': '2023', 'name': '青豆胡萝卜鸡丁', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code':
+'2024', 'name': '青椒土豆片', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2025', 'name': '青蒜杏鲍菇',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2026', 'name': '青蒜有机菜花', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2027', 'name': '青笋木耳鸡蛋', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ',
+'sort': '副食', 'code': '2028', 'name': '青笋木耳虾仁', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '4 ', 'sort': '副食', 'code':
+'2029', 'name': '清炒西葫芦', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2030', 'name': '清炒小白菜',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '02'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2031', 'name': '肉末酱烧茄子', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2032', 'name': '素炒胡萝卜丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '4 ',
+'sort': '副食', 'code': '2033', 'name': '素炒豇豆', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '4 ', 'sort': '副食', 'code':
+'2034', 'name': '酸菜炖排骨', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2035', 'name': '土豆烧肉',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2036', 'name': '五花肉白菜豆腐', 'price':
+Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2037', 'name': '西红柿鸡蛋', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2038', 'name': '西红柿茄丁', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '4 ',
+'sort': '副食', 'code': '2039', 'name': '西葫芦鸡蛋', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code':
+'2040', 'name': '香菇炖鸡块', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2041', 'name': '香菇油菜',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '03'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2042', 'name': '杏鲍菇炒鸡片', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '4 ', 'sort': '副食', 'code': '2043', 'name': '洋葱炒羊肉', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ',
+'sort': '副食', 'code': '2044', 'name': '鱼香肉丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '汤粥', 'code':
+'3000', 'name': '米汤', 'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '汤粥', 'code': '3001', 'name': '黄瓜汁',
+'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '汤粥', 'code': '3002', 'name': '鸡蛋羹', 'price': Decimal('1.00'),
+'gx': '半流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '4 ', 'sort': '汤粥', 'code': '3003', 'name': '豆浆', 'price': Decimal('1.00'), 'gx': '清流', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ',
+'sort': '汤粥', 'code': '3004', 'name': '纯牛奶', 'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '汤粥', 'code':
+'3005', 'name': '胡萝卜汁', 'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '04'}, {'cbbh': '4 ', 'sort': '汤粥', 'code': '3006', 'name': '苹果汁',
+'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '汤粥', 'code': '3007', 'name': '山药汁', 'price': Decimal('1.00'),
+'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'04'}, {'cbbh': '4 ', 'sort': '汤粥', 'code': '3008', 'name': '面片汤', 'price': Decimal('1.00'), 'gx': '半流', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ',
+'sort': '汤粥', 'code': '3009', 'name': '鸡蛋汤', 'price': Decimal('1.00'), 'gx': '流食', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '汤粥', 'code':
+'3010', 'name': '紫米汤', 'price': Decimal('1.00'), 'gx': '流食', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '4 ', 'sort': '汤粥', 'code': '3011', 'name': '养血粥',
+'price': Decimal('1.00'), 'gx': '流食', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '04'}, {'cbbh': '4 ', 'sort': '汤粥', 'code': '3012', 'name': '乳鸽汤', 'price': Decimal('1.00'),
+'gx': '流食', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'04'}, {'cbbh': '4 ', 'sort': '汤粥', 'code': '3013', 'name': '海参粥', 'price': Decimal('1.00'), 'gx': '半流', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '04'}, {'cbbh': '5 ',
+'sort': '主食', 'code': '1000', 'name': '米饭', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '主食', 'code':
+'1001', 'name': '馒头', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '主食', 'code': '1002', 'name': '花卷',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '主食', 'code': '1003', 'name': '发糕', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '5 ', 'sort': '主食', 'code': '1004', 'name': '千层饼', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ',
+'sort': '主食', 'code': '1005', 'name': '鸡蛋', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '主食', 'code':
+'1006', 'name': '包子', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '主食', 'code': '1007', 'name': '豆包',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '主食', 'code': '1008', 'name': '枣糕', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '5 ', 'sort': '主食', 'code': '1009', 'name': '油条', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ',
+'sort': '副食', 'code': '2000', 'name': '地三鲜', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code':
+'2001', 'name': '青笋木耳虾仁', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2002', 'name': '家常土豆丝',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2003', 'name': '素炒豇豆', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'02'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2004', 'name': '黄豆芽粉丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '5 ',
+'sort': '副食', 'code': '2005', 'name': '西葫芦鸡蛋', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '5 ', 'sort': '副食', 'code':
+'2006', 'name': '豆皮油麦菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2007', 'name': '炖羊排',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2008', 'name': '番茄有机菜花', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'02'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2009', 'name': '海带鹌鹑蛋烧肉', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ',
+'sort': '副食', 'code': '2010', 'name': '耗油豇豆', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code':
+'2011', 'name': '胡萝卜快菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2012', 'name': '黄瓜虾仁',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '02'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2013', 'name': '黄焖鸡翅根', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2014', 'name': '豇豆肉丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ',
+'sort': '副食', 'code': '2015', 'name': '酱爆鸡丁', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code':
+'2017', 'name': '萝卜炖牛肉', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2018', 'name': '萝卜鸭块',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2019', 'name': '木耳油菜', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2020', 'name': '木耳油麦菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ',
+'sort': '副食', 'code': '2021', 'name': '芹菜粉条', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code':
+'2022', 'name': '芹菜香干', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2023', 'name': '青豆胡萝卜鸡丁',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2024', 'name': '青椒土豆片', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2025', 'name': '青蒜杏鲍菇', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ',
+'sort': '副食', 'code': '2026', 'name': '青蒜有机菜花', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code':
+'2027', 'name': '青笋木耳鸡蛋', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2028', 'name': '青笋木耳虾仁',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '02'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2029', 'name': '清炒西葫芦', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2030', 'name': '清炒小白菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '5 ',
+'sort': '副食', 'code': '2031', 'name': '肉末酱烧茄子', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code':
+'2032', 'name': '素炒胡萝卜丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2033', 'name': '素炒豇豆',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '03'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2034', 'name': '酸菜炖排骨', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2035', 'name': '土豆烧肉', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ',
+'sort': '副食', 'code': '2036', 'name': '五花肉白菜豆腐', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code':
+'2037', 'name': '西红柿鸡蛋', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2038', 'name': '西红柿茄丁',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '03'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2039', 'name': '西葫芦鸡蛋', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2040', 'name': '香菇炖鸡块', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ',
+'sort': '副食', 'code': '2041', 'name': '香菇油菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '5 ', 'sort': '副食', 'code':
+'2042', 'name': '杏鲍菇炒鸡片', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2043', 'name': '洋葱炒羊肉',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '副食', 'code': '2044', 'name': '鱼香肉丝', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '5 ', 'sort': '汤粥', 'code': '3000', 'name': '米汤', 'price': Decimal('1.00'), 'gx': '清流', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ',
+'sort': '汤粥', 'code': '3001', 'name': '黄瓜汁', 'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '汤粥', 'code':
+'3002', 'name': '鸡蛋羹', 'price': Decimal('1.00'), 'gx': '半流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '汤粥', 'code': '3003', 'name': '豆浆',
+'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '汤粥', 'code': '3004', 'name': '纯牛奶', 'price': Decimal('1.00'),
+'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '5 ', 'sort': '汤粥', 'code': '3005', 'name': '胡萝卜汁', 'price': Decimal('1.00'), 'gx': '清流', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '04'}, {'cbbh': '5 ',
+'sort': '汤粥', 'code': '3006', 'name': '苹果汁', 'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '汤粥', 'code':
+'3007', 'name': '山药汁', 'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '04'}, {'cbbh': '5 ', 'sort': '汤粥', 'code': '3008', 'name': '面片汤',
+'price': Decimal('1.00'), 'gx': '半流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ', 'sort': '汤粥', 'code': '3009', 'name': '鸡蛋汤', 'price': Decimal('1.00'),
+'gx': '流食', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '5 ', 'sort': '汤粥', 'code': '3010', 'name': '紫米汤', 'price': Decimal('1.00'), 'gx': '流食', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '5 ',
+'sort': '汤粥', 'code': '3011', 'name': '养血粥', 'price': Decimal('1.00'), 'gx': '流食', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '04'}, {'cbbh': '5 ', 'sort': '汤粥', 'code':
+'3012', 'name': '乳鸽汤', 'price': Decimal('1.00'), 'gx': '流食', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '04'}, {'cbbh': '5 ', 'sort': '汤粥', 'code': '3013', 'name': '海参粥',
+'price': Decimal('1.00'), 'gx': '半流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '04'}, {'cbbh': '6 ', 'sort': '主食', 'code': '1000', 'name': '米饭', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '6 ', 'sort': '主食', 'code': '1001', 'name': '馒头', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ',
+'sort': '主食', 'code': '1002', 'name': '花卷', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '主食', 'code':
+'1003', 'name': '发糕', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '主食', 'code': '1004', 'name': '千层饼',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '主食', 'code': '1005', 'name': '鸡蛋', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '6 ', 'sort': '主食', 'code': '1006', 'name': '包子', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ',
+'sort': '主食', 'code': '1007', 'name': '豆包', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '主食', 'code':
+'1008', 'name': '枣糕', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '主食', 'code': '1009', 'name': '油条',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2000', 'name': '地三鲜', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2001', 'name': '青笋木耳虾仁', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '6 ',
+'sort': '副食', 'code': '2002', 'name': '家常土豆丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code':
+'2003', 'name': '素炒豇豆', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2004', 'name': '黄豆芽粉丝',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '03'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2005', 'name': '西葫芦鸡蛋', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'02'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2006', 'name': '豆皮油麦菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ',
+'sort': '副食', 'code': '2007', 'name': '炖羊排', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code':
+'2008', 'name': '番茄有机菜花', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2009', 'name': '海带鹌鹑蛋烧肉',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2010', 'name': '耗油豇豆', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2011', 'name': '胡萝卜快菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ',
+'sort': '副食', 'code': '2012', 'name': '黄瓜虾仁', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '6 ', 'sort': '副食', 'code':
+'2013', 'name': '黄焖鸡翅根', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2014', 'name': '豇豆肉丝',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2015', 'name': '酱爆鸡丁', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2017', 'name': '萝卜炖牛肉', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ',
+'sort': '副食', 'code': '2018', 'name': '萝卜鸭块', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code':
+'2019', 'name': '木耳油菜', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2020', 'name': '木耳油麦菜',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2021', 'name': '芹菜粉条', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2022', 'name': '芹菜香干', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '6 ',
+'sort': '副食', 'code': '2023', 'name': '青豆胡萝卜鸡丁', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code':
+'2024', 'name': '青椒土豆片', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2025', 'name': '青蒜杏鲍菇',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2026', 'name': '青蒜有机菜花', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2027', 'name': '青笋木耳鸡蛋', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ',
+'sort': '副食', 'code': '2028', 'name': '青笋木耳虾仁', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '02'}, {'cbbh': '6 ', 'sort': '副食', 'code':
+'2029', 'name': '清炒西葫芦', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2030', 'name': '清炒小白菜',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '02'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2031', 'name': '肉末酱烧茄子', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2032', 'name': '素炒胡萝卜丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '6 ',
+'sort': '副食', 'code': '2033', 'name': '素炒豇豆', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '6 ', 'sort': '副食', 'code':
+'2034', 'name': '酸菜炖排骨', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2035', 'name': '土豆烧肉',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2036', 'name': '五花肉白菜豆腐', 'price':
+Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2037', 'name': '西红柿鸡蛋', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2038', 'name': '西红柿茄丁', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '03'}, {'cbbh': '6 ',
+'sort': '副食', 'code': '2039', 'name': '西葫芦鸡蛋', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code':
+'2040', 'name': '香菇炖鸡块', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2041', 'name': '香菇油菜',
+'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '03'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2042', 'name': '杏鲍菇炒鸡片', 'price': Decimal('1.00'),
+'gx': '普通', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '6 ', 'sort': '副食', 'code': '2043', 'name': '洋葱炒羊肉', 'price': Decimal('1.00'), 'gx': '普通', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ',
+'sort': '副食', 'code': '2044', 'name': '鱼香肉丝', 'price': Decimal('1.00'), 'gx': '普通', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '汤粥', 'code':
+'3000', 'name': '米汤', 'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '汤粥', 'code': '3001', 'name': '黄瓜汁',
+'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '汤粥', 'code': '3002', 'name': '鸡蛋羹', 'price': Decimal('1.00'),
+'gx': '半流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'01'}, {'cbbh': '6 ', 'sort': '汤粥', 'code': '3003', 'name': '豆浆', 'price': Decimal('1.00'), 'gx': '清流', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ',
+'sort': '汤粥', 'code': '3004', 'name': '纯牛奶', 'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '汤粥', 'code':
+'3005', 'name': '胡萝卜汁', 'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '04'}, {'cbbh': '6 ', 'sort': '汤粥', 'code': '3006', 'name': '苹果汁',
+'price': Decimal('1.00'), 'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '汤粥', 'code': '3007', 'name': '山药汁', 'price': Decimal('1.00'),
+'gx': '清流', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'04'}, {'cbbh': '6 ', 'sort': '汤粥', 'code': '3008', 'name': '面片汤', 'price': Decimal('1.00'), 'gx': '半流', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ',
+'sort': '汤粥', 'code': '3009', 'name': '鸡蛋汤', 'price': Decimal('1.00'), 'gx': '流食', 'rl': Decimal('0.00'), 'dbz':
+Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '汤粥', 'code':
+'3010', 'name': '紫米汤', 'price': Decimal('1.00'), 'gx': '流食', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts':
+Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '01'}, {'cbbh': '6 ', 'sort': '汤粥', 'code': '3011', 'name': '养血粥',
+'price': Decimal('1.00'), 'gx': '流食', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl':
+Decimal('999.00'), 'zh': '04'}, {'cbbh': '6 ', 'sort': '汤粥', 'code': '3012', 'name': '乳鸽汤', 'price': Decimal('1.00'),
+'gx': '流食', 'rl': Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh':
+'04'}, {'cbbh': '6 ', 'sort': '汤粥', 'code': '3013', 'name': '海参粥', 'price': Decimal('1.00'), 'gx': '半流', 'rl':
+Decimal('0.00'), 'dbz': Decimal('0.00'), 'ts': Decimal('0.00'), 'dcsl': Decimal('999.00'), 'zh': '04'}]
